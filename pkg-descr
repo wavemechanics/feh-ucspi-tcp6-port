@@ -1,0 +1,9 @@
+feh-ucspi-tcp6 is a set of command-line tools for building IPv6-based
+client/server applications.
+
+This package is based on DJB's ucspi-tcp, with some enhancements:
+* IPv6 support
+* CIDR
+* IPv6 lookup for rblsmtpd
+
+WWW: https://www.fehcom.de/ipnet/ucspi-tcp6.html
